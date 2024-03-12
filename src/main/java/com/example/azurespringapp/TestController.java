@@ -10,7 +10,7 @@ public class TestController {
 
     @GetMapping("test")
     public String getMethodName() {
-        return "Welcome to Azure";
+        return "Welcome to Azure updated";
     }
     
 }
